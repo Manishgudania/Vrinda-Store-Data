@@ -28,3 +28,6 @@ Identify high-performing stores and assess factors contributing to their success
 **Age vs. Gender Analysis**
 Explore the relationship between age and gender concerning the quantity of products purchased.
 Determine which age groups and genders are the primary contributors to high-value orders.
+
+**Conclution to improve Vrinda store sales:**
+Target **women** customers of age group (30 - 40years) living in Maharashtra, karnataka and uttar pradesh by showing ads/offers/coupons available on Amazone, Flipkart and Myntra
